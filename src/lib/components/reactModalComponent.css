@@ -41,7 +41,7 @@
 }
 
 .react-modal-component__container--dark {
-  background-color: #212121;
+  background-color: #889b40;
   color: #ffffff;
 }
 
@@ -84,7 +84,7 @@
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background-color: #3a5a40;
+  background-color: #889b40;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -93,7 +93,7 @@
 }
 
 .react-modal-component__close-btn:hover {
-  background-color: gray;
+  background-color: #000;
 }
 
 .react-modal-component__close-btn::before,
